@@ -11,8 +11,8 @@ Some concepts explored in this project are dimension reduction (SVD / NMF), reco
 ## Files
 #### Code
 * **Twitter_Crypto_Stream.py** - Script to stream cryptocurrency tweets. Requires a local MongoDB server to store results.
-* **Twitter_Mongo_EDA** - MongoDB exploration of features and extraction of user and tweet text + hashtag fields to new collection
-* **Twitter_Analysis** - Brief exploration of NLP topic modeling on tweet text, and build / evaluation of recommender system using Recall@N metric
+* **Twitter_Mongo_EDA.ipynb** - MongoDB exploration of features and extraction of user and tweet text + hashtag fields to new collection
+* **Twitter_NLP_Recommender.ipynb** - Brief exploration of NLP topic modeling on tweet text, and build / evaluation of recommender system using Recall@N metric
 
 #### Docs
 * **Crypto_Recommender_Slides.pdf** - Project presentation slides

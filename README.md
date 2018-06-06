@@ -2,7 +2,7 @@
 A recommender system for cryptocurrencies based on tweets.
 
 ## Summary
-This is my unsupervised learning project for Metis (a data science bootcamp). It includes script to capture tweets (via Twitter streaming API using tweepy & MongoDB), a brief exploration of NLP, and a recommender system for tweet hashtags.
+This is my unsupervised learning project for Metis (a data science bootcamp). It includes a script to capture tweets (via Twitter streaming API using tweepy & MongoDB), a brief exploration of NLP, and a recommender system for tweet hashtags.
 
 The focus of the recommender system is to suggest new cryptocurrencies that a user might be interested based on their current interests or portfolio. I captured tweets with cryptocurrency & blockchain related hashtags, then interpreted each user's hashtags as interest indicators. With these indicators, I can find similar users and suggest new hashtags in a collaborative model.
 
